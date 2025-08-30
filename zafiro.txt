@@ -4,3 +4,12 @@ Se encuentra comúnmente en yacimientos ricos en rutilo, bauxita y hematita.
 La composición química es una mezcla de óxidos de aluminio, hierro y titanio, 
 el cual le da su color característico azul. Su fórmula química es Al2O3. 
 Le corresponde la dureza 9 en la escala de Mohs.
+
+
+
+
+
+
+
+
+Cambios en la nueva branch LUD
