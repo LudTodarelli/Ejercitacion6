@@ -17,7 +17,11 @@ Un diamante de calidad superior es denominado un naife.
 NUEVA MODIFICACIÓN
 
 
+<<<<<<< HEAD
 CAMBIO DE LUDMILA
+=======
+Cambio de Corina
+>>>>>>> 1ba203dba20e4bd1fc9294b2a9fb57df14b29dce
 
 
 Pokémon Diamante y Pokémon Perla (Pokémon Diamond y Pokémon Pearl en inglés, ポケットモンスター ダイヤモンド 
