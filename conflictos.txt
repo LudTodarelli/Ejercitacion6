@@ -13,4 +13,17 @@ A su vez, no nos dejaba escribir en la terminal.
     
     Con esto solucionamos el problema. Sin embargo, no nos ofrecía las opciones que se nos indicó. 
 
+Conflicto 2:
+
+Hicimos modificaciones en la misma línea y recién allí nos aparecieron las opciones para elegir qué cambio es
+el que iba a prevalecer. Antes, cuando modificamos el mismo archivo pero en distintas líneas, no nos apareción.
+
+    Resolución: 
+        - Seleccionamos qué cambio queríamos mantener. En nuestro caso, quisimos mantener ambos. La que lo hizo primero
+        salvó los cambios. 
+        - La segunda hizo un pull para actualizar el estado de los archivos y también le apareció el mismo mensaje. 
+        Eligió la misma opción que la participante anterior e hizo un nuevo commit. 
+
+
+
 
