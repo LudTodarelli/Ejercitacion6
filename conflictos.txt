@@ -1,0 +1,14 @@
+Conflicto 1: El primer problema que se nos presentó fue que en ningun momento nos aparecieron las 3
+opciones detalladas en el PDF. El sistema nos hizo un merge por default. 
+Nos apareció un nuevo archivo llamado: MERGE_MSG.git
+A su vez, no nos dejaba escribir en la terminal. 
+
+
+    Resolución:
+        - Abrimos una nueva terminal en bash y escribimos el comando git status para ver en qué estado se encontraba
+        nuestro archivo modificado. 
+        - Hicimos un nuevo commit y un push para que se apliquen los cambios en el archivo. 
+    
+    Con esto solucionamos el problema. Sin embargo, no nos ofrecía las opciones que se nos indicó. 
+
+
